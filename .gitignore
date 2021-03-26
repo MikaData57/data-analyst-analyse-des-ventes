@@ -1,0 +1,4 @@
+# Ignorer le dossier ipynb_checkpoints
+/.ipynb_checkpoints
+# Ignorer certains assets
+soutenance.jpg
